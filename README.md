@@ -33,3 +33,13 @@ jSnack4
 5-  Utilizziamo il metodo map per creare un nuovo array di oggetti studenti con id, nome e media dei voti.
 6- Aggiunta delle liste al DOM: viene utilizzato il metodo getElementById per recuperare i contenitori delle liste dal file HTML. 
 7- Uttilizzo il metodo appendChild per aggiungere le carte degli studenti ai rispettivi contenitori.
+
+=========================
+
+jSnack5
+
+===
+
+1- Crea gli Array contenente le informazioni 
+2- Crea le funzioni che ci servono per ottenere il risultato in base alla scelta fatta 
+3- In base alla scelta stampa a schermo
