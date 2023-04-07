@@ -43,3 +43,15 @@ jSnack5
 1- Crea gli Array contenente le informazioni 
 2- Crea le funzioni che ci servono per ottenere il risultato in base alla scelta fatta 
 3- In base alla scelta stampa a schermo
+
+jSnack6
+
+===
+
+1- Definizione di un array di oggetti, dove ogni oggetto rappresenta una squadra di calcio con nome, punti fatti e falli subiti.
+2- Generazione di numeri casuali per i punti fatti e i falli subiti di ogni squadra.
+3- Creazione di un nuovo array "newTeams" utilizzando la destrutturazione degli oggetti dell'array.
+4- Ciclo for per creare le righe della tabella HTML dinamicamente, utilizzando i dati dell'array.
+5- Creazione di una variabile "table" che rappresenta la tabella HTML, con intestazione e corpo.
+6- Aggiunta della tabella al documento HTML, nel div con id "table-container".
+7- Stampa tutto sullo chermo.
